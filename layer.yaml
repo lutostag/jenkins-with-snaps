@@ -1,0 +1,5 @@
+includes:
+  - layer:basic
+  - layer:snap-action
+  - layer:jenkins
+repo: https://github.com/lutostag/jenkins-with-snaps.git
